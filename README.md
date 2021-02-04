@@ -1,5 +1,7 @@
 KUDA CODE CHALLENGE
 
+https://snack.expo.io/@obinna/53244b
+
 These packages are included as dependencies in package.json file
 
 ## Steps to run project
